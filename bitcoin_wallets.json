@@ -1,0 +1,24 @@
+{
+    "Tes": {
+        "mnemonic": "game symptom face harsh permit example spider urban give meadow receive aim",
+        "address": "tb1qfl3pnjvkmne6e2q5tgknlk7h6uwtmwj3lhq5d3",
+        "network": "testnet"
+    },
+    "Aye": {
+        "mnemonic": "situate will notice dial polar physical fringe typical nice kitchen basic soap",
+        "address": "tb1qcxgufwx60p0k5fr6lhvuj40slhfxc6ld6qravm",
+        "network": "testnet"
+    },
+    "test": {
+        "mnemonic": "good rose verify claw cost excuse found evil task excess teach viable",
+        "address": "tb1q48alkpefy97wa5kycjs4l70004amex7zaawdkf",
+        "private_key": "vpub5cyRkSo9BYHR5NDJa69MHtvBW9v7gUgEtZTmmCteKLhSYqwRb1zo65EJtQNhyuQJFzfqy4XVfdzHdYJM1F5Z8QrFZG2zNf2VSwhx3XbNaTY",
+        "network": "testnet"
+    },
+    "ae": {
+        "mnemonic": "snow quantum rebuild margin electric affair fence fabric audit surprise eager size",
+        "address": "tb1qrue3j0xalyqnv2pspszfgcfwvaanuakmuufp4e",
+        "private_key": "vpub5d9KpZsZBLXFjtLkcZYcFNR6rsr111hW7VVGo1FMTeXXufmdbKJ23iwmqUE2jCt6fmJ9KtgF5Q4xTp2YZB2yLQGodNXASBiXdaU6qqcETi3",
+        "network": "testnet"
+    }
+}
